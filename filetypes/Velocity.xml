@@ -1,0 +1,17 @@
+<filetype binary="false" description="Velocity" name="Velocity">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="##" />
+      <option name="COMMENT_START" value="#*" />
+      <option name="COMMENT_END" value="*#" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_PARENS" value="true" />
+    </options>
+    <keywords keywords="#else;#elseif;#end;#foreach;#if;#include;#macro;#parse;#set;#stop" ignore_case="false" />
+    <keywords2 keywords="in" />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="vtl" />
+  </extensionMap>
+</filetype>

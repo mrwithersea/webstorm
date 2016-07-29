@@ -1,0 +1,20 @@
+<templateSet group="JavaScript">
+  <template name="test" value="import sinon from 'sinon';&#10;import chai from 'chai';&#10;import subset from 'chai-subset';&#10;&#10;let expect = chai.expect;&#10;let assert = chai.assert;&#10;chai.use(subset);&#10;&#10;describe('$FILE$', () =&gt; {&#10;&#10;    $END$&#10;&#10;});" description="Inserts es6 imports for mocha test" toReformat="false" toShortenFQNames="true">
+    <variable name="FILE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="rtest" value="import sinon from 'sinon';&#10;import chai from 'chai';&#10;import subset from 'chai-subset';&#10;&#10;import React from 'react';&#10;import { shallow } from 'enzyme';&#10;&#10;let expect = chai.expect;&#10;let assert = chai.assert;&#10;chai.use(subset);&#10;&#10;describe('&lt;$FILE$ /&gt;', () =&gt; {&#10;&#10;    $END$&#10;&#10;});" description="Inserts es6 imports for react tests with mocha" toReformat="false" toShortenFQNames="true">
+    <variable name="FILE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
