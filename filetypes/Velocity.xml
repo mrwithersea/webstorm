@@ -11,7 +11,4 @@
     <keywords keywords="#else;#elseif;#end;#foreach;#if;#include;#macro;#parse;#set;#stop" ignore_case="false" />
     <keywords2 keywords="in" />
   </highlighting>
-  <extensionMap>
-    <mapping ext="vtl" />
-  </extensionMap>
 </filetype>
