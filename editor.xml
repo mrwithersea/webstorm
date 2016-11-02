@@ -2,6 +2,6 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
-    <option name="SHOW_INLINE_DIALOG" value="false" />
+    <option name="RENAME_VARIABLES_INPLACE" value="false" />
   </component>
 </application>
