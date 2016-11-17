@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".escomplexrc" type="JSON" />
       <mapping pattern=".nycrc" type="JSON" />
+      <mapping pattern=".complexrc" type="JSON" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="tap-spec" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
