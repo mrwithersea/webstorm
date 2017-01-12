@@ -1,9 +1,13 @@
 <application>
   <component name="libraryTable">
-    <library name="chai-DefinitelyTyped" type="javaScript">
+    <library name="axios-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_axios_index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_chai_chai-2.0.0.d.ts" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_chai_chai.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_axios_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -25,13 +29,6 @@
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="mocha-DefinitelyTyped" type="javaScript">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mocha_mocha-node.d.ts" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mocha_mocha.d.ts" />
-      </CLASSES>
-      <SOURCES />
-    </library>
     <library name="node-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_node_node-0.10.d.ts" />
@@ -42,15 +39,14 @@
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="phantom-DefinitelyTyped" type="javaScript">
+    <library name="ramda-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_ramda_index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_phantom_phantom.d.ts" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="phantomjs-DefinitelyTyped" type="javaScript">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_phantomjs_phantomjs.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_ramda_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -78,15 +74,58 @@
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="selenium-webdriver-DefinitelyTyped" type="javaScript">
+    <library name="redux-router-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_redux-router_index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_selenium-webdriver_selenium-webdriver.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_redux-router_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="sinon-DefinitelyTyped" type="javaScript">
+    <library name="redux-saga-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_redux-saga_index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_sinon_sinon.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_redux-saga_index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="request-promise-native-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_request-promise-native_index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_request-promise-native_index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="tape-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_tape_index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_tape_index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="webdriverio-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_webdriverio_index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_webdriverio_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
