@@ -1,14 +1,7 @@
 <application>
   <component name="libraryTable">
     <library name="axios-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_axios_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_axios_index.d.ts" />
-      </CLASSES>
+      <CLASSES />
       <SOURCES />
     </library>
     <library name="cucumber-DefinitelyTyped" type="javaScript">
@@ -40,14 +33,7 @@
       <SOURCES />
     </library>
     <library name="ramda-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_ramda_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_ramda_index.d.ts" />
-      </CLASSES>
+      <CLASSES />
       <SOURCES />
     </library>
     <library name="react-autosuggest-DefinitelyTyped" type="javaScript">
@@ -75,58 +61,23 @@
       <SOURCES />
     </library>
     <library name="redux-router-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_redux-router_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_redux-router_index.d.ts" />
-      </CLASSES>
+      <CLASSES />
       <SOURCES />
     </library>
     <library name="redux-saga-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_redux-saga_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_redux-saga_index.d.ts" />
-      </CLASSES>
+      <CLASSES />
       <SOURCES />
     </library>
     <library name="request-promise-native-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_request-promise-native_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_request-promise-native_index.d.ts" />
-      </CLASSES>
+      <CLASSES />
       <SOURCES />
     </library>
     <library name="tape-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_tape_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_tape_index.d.ts" />
-      </CLASSES>
+      <CLASSES />
       <SOURCES />
     </library>
     <library name="webdriverio-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_webdriverio_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_webdriverio_index.d.ts" />
-      </CLASSES>
+      <CLASSES />
       <SOURCES />
     </library>
   </component>
