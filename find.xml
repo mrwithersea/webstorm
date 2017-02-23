@@ -8,9 +8,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="webpack*.js" />
+    <option name="FILE_MASK" value="*.js,*.json" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -22,8 +21,8 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.php</mask>
-      <mask>*.js,*.json</mask>
       <mask>webpack*.js</mask>
+      <mask>*.js,*.json</mask>
     </recentFileMasks>
   </component>
 </application>
