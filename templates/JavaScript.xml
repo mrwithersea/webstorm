@@ -1,6 +1,5 @@
 <templateSet group="JavaScript">
-  <template name="test" value="import sinon from 'sinon';&#10;import chai from 'chai';&#10;import subset from 'chai-subset';&#10;&#10;let expect = chai.expect;&#10;let assert = chai.assert;&#10;chai.use(subset);&#10;&#10;describe('$FILE$', () =&gt; {&#10;&#10;    $END$&#10;&#10;});" description="Inserts es6 imports for mocha test" toReformat="false" toShortenFQNames="true">
-    <variable name="FILE" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="test" value="test('What component aspect are you testing?', assert =&gt; {&#10;  const actual = 'What is the actual output?';&#10;  const expected = 'What is the expected output?';&#10;&#10;  assert.equal(actual, expected,&#10;    'What should the feature do?');&#10;&#10;  assert.end();&#10;});" description="Inserts es6 imports for mocha test" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
