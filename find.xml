@@ -2,29 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.php</mask>
-      <mask>webpack*.js</mask>
-      <mask>*.js,*.json</mask>
-      <mask>*</mask>
-      <mask>*.sepc</mask>
-      <mask>*.sep</mask>
-      <mask>*.se</mask>
-      <mask>*.s</mask>
-      <mask>*.spe</mask>
-      <mask>*.spec</mask>
-      <mask>*.spec.</mask>
-      <mask>*.spec.js</mask>
-    </recentFileMasks>
   </component>
 </application>
