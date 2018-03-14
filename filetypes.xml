@@ -5,6 +5,7 @@
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="clj" type="PLAIN_TEXT" />
+      <mapping ext="properites" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
